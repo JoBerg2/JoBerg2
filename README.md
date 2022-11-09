@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johanne</h1>
-<h3 align="center">Studying Diploma Engineer in Software Technology</h3>
+<h3 align="center">Studying Bachelor of Engineering in Software Technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
